@@ -1,0 +1,94 @@
+title: 博士随笔录
+baseURL: https://diary.chenq.site
+theme: bilberry-hugo-theme
+enableRobotsTXT: yes
+DefaultContentLanguage: zh-cn
+googleAnalytics: ''
+disqusShortname: ''
+params:
+  algolia_apiKey: 16030625f1a4d0dd3b8aefd794fd4cf1
+  algolia_appId: 45CEN6X6AT
+  algolia_currentLanguageOnly: yes
+  algolia_indexName: bilberry-hugo-theme
+  algolia_search: no
+  amountCategoriesInFooter: 7
+  amountLatestPostsInFooter: 7
+  archiveDateGrouping: 2006-01
+  author: Qiong Chen
+  avatarEmail: chenq08@126.com
+  copyrightBy: by Qiong Chen
+  copyrightUrl: https://chenq.site/about.html
+  copyrightUseCurrentYear: yes
+  copyrightYearOverride: '2017'
+  creditsText: 欢迎来主站
+  creditsUrl: https://chenq.site
+  css_modules: []
+  customImage: '/images/profile.jpg'
+  dateFormat: '2006-01-02'
+  description: A diary site.
+  enable_mathjax: no
+  enableMomentJs: yes
+  giscus: no
+  giscusCategory: '[ENTER CATEGORY NAME HERE]'
+  giscusCategoryId: '[ENTER CATEGORY ID HERE]'
+  giscusCrossOrigin: anonymous
+  giscusEmitMetadata: '0'
+  giscusJsUrl: https://giscus.app/client.js
+  giscusLanguage: en
+  giscusMapping: pathname
+  giscusReactions: '1'
+  giscusRepository: '[ENTER REPO HERE]' 
+  giscusRepositoryId: '[ENTER REPO ID HERE]'
+  giscusTheme: light
+  js_modules: []
+  keywords: 博客,医生,博士,doctor,日记,肿瘤登记,牢骚,正能量,
+  overlayIcon: fa-ghost
+  paginate: 7
+  permanentTopNav: no
+  resizeImages: yes
+  showArchive: no
+  showFooter: yes
+  showFooterLanguageChooser: no
+  showHeaderLanguageChooser: yes
+  showReadingTime: no
+  showSocialMedia: no
+  socialMediaLinks:
+    - icon: fab fa-github
+      link: https://github.com/gigu003
+  stickyNav: yes
+  subtitle: 记录即时心情，分享重要时刻！
+  tocMinWordCount: 400
+  utterances: no
+  utterancesCrossOrigin: anonymous
+  utterancesIssueTerm: pathname
+  utterancesJsUrl: https://utteranc.es/client.js
+  utterancesLabel: Comment
+  utterancesRepository: '[ENTER REPO HERE]'
+  utterancesTheme: github-light
+Languages:
+  en:
+    subtitle: Dr. Chen's diary
+    title: Random Jottings
+    weight: 2
+  zh-CN:
+    weight: 1
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: no
+  tableOfContents:
+    endLevel: 5
+    ordered: no
+    startLevel: 2
+taxonomies:
+  author: author
+  category: categories
+  series: series
+  tag: tags
+outputs:
+  home:
+    - HTML
+    - JSON
+    - RSS
+  page: HTML
