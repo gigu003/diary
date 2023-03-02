@@ -5,6 +5,10 @@
 # Session Data files
 .RData
 
+# ignore mac os cash files
+.DS_Store
+*/.DS_Store
+
 # User-specific files
 .Ruserdata
 
