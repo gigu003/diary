@@ -4,7 +4,7 @@ draft: false
 
 icon: ""
 showDate: true
-categories: ["心情"]
+categories: [心情]
 tags: []
 author: "Qiong Chen"
 ---

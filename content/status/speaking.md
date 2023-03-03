@@ -3,7 +3,7 @@ date: "2023-02-28"
 
 icon: "fa-teeth"
 showDate: yes
-categories: ["心情"]
+categories: [心情]
 author: Qiong Chen
 ---
 
