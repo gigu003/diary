@@ -5,8 +5,7 @@ draft: false
 icon: ""
 showDate: true
 categories: [心情]
-tags: []
-author: ""
+author: "Qiong Chen"
 ---
 
 现在年轻人都是在忙着工作加班，没时间恋爱、没有家庭时间，当然没有时间来育儿。中国这么长时间以来，一直在忙着追这个赶那个，为什么不能放慢脚步、停下来想一想，怎么让老百姓生活的更幸福，怎么让老百姓不那么累~

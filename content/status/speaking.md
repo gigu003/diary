@@ -2,7 +2,9 @@
 date: "2023-02-28"
 
 icon: "fa-teeth"
-showDate: false
+showDate: yes
+categories: ["心情"]
+author: Qiong Chen
 ---
 
 大领导讲话用的材料为什么不自己写？他们好像都很高瞻远瞩、胸怀国家，我们这些小职员胸无点墨、抓耳挠腮的，好不容易写出来一篇稿子，小领导指指点点、大领导站位高远的指出不足，打回去重写！
