@@ -25,7 +25,7 @@ params:
   css_modules: []
   customImage: '/images/profile.jpg'
   dateFormat: '2006-01-02'
-  description: A diary site.
+  description: This a diary site for Dr. Chen.
   enable_mathjax: no
   enableMomentJs: yes
   giscus: no
