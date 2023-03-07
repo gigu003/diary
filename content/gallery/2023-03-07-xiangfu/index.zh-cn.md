@@ -6,7 +6,7 @@ slug: xiangfu
 categories:
   - 工作旅途
 tags:
-  - 肿瘤登记
+  - 癌症筛查
 draft: no
 icon: "fa-heart"
 imageSlider: yes
