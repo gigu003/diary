@@ -1,5 +1,5 @@
 ---
 excludeFromIndex: true
-title: Archivseite
+title: Archive
 type: archive
 ---

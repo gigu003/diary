@@ -43,21 +43,21 @@ params:
   js_modules: []
   keywords: 博客,医生,博士,doctor,日记,肿瘤登记,牢骚,正能量,
   overlayIcon: fa-ghost
-  paginate: 7
+  paginate: 5
   permanentTopNav: no
   resizeImages: yes
-  showArchive: no
+  showArchive: yes
   showFooter: yes
-  showFooterLanguageChooser: no
+  showFooterLanguageChooser: yes
   showHeaderLanguageChooser: yes
-  showReadingTime: no
-  showSocialMedia: no
+  showReadingTime: yes
+  showSocialMedia: yes
   socialMediaLinks:
     - icon: fab fa-github
       link: https://github.com/gigu003
   stickyNav: yes
   subtitle: 记录即时心情，分享重要时刻！
-  tocMinWordCount: 400
+  tocMinWordCount: 100
   utterances: no
   utterancesCrossOrigin: anonymous
   utterancesIssueTerm: pathname

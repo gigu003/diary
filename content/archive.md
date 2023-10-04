@@ -1,5 +1,5 @@
 ---
 excludeFromIndex: true
-title: Archive Page
+title: 历史发文
 type: archive
 ---
