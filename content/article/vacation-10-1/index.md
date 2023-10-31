@@ -1,5 +1,6 @@
 ---
 title: "十月一日假期有感"
+author: "Qiong Chen"
 date: 2023-10-01T18:10:14+01:00
 tags: ['假期', '杂谈']
 categories: ['心情']
