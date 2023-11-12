@@ -57,7 +57,7 @@ params:
       link: https://github.com/gigu003
   stickyNav: yes
   subtitle: 记录即时心情，分享重要时刻！
-  tocMinWordCount: 100
+  tocMinWordCount: 50
   utterances: no
   utterancesCrossOrigin: anonymous
   utterancesIssueTerm: pathname

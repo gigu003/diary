@@ -1,5 +1,5 @@
 ---
-title: "我的两个同学"
+title: "我的同学"
 author: "Qiong Chen"
 date: 2023-11-11
 categories: ["心情"]
